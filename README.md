@@ -10,7 +10,7 @@ This repository showcases a real-time data streaming and analytics pipeline usin
 - Real-time analytics and visualization
 
 ## Technologies
-- Python
+- Java
 - Apache Kafka
 - Apache Flink
 - Elasticsearch
